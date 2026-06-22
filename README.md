@@ -2,31 +2,25 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=blur&color=0:00E7FF,50:A855F7,100:FF2D95&height=200&section=header&text=Jesse%20Chen&fontColor=ffffff&fontSize=46&fontFamily=Inter&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20%40%20Carnegie%20Mellon&descAlignY=64&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=blur&color=0:00E7FF,50:A855F7,100:FF2D95&height=160&section=header&text=Jesse%20Chen&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20%40%20Carnegie%20Mellon&descAlignY=64&descSize=16"
   alt="header"
   width="100%"
 />
 
 </div>
 
-<!-- ───────────────────────────  STATS  ─────────────────────────── -->
+<!-- ───────────────────────  STATS + STREAK (one row)  ───────────── -->
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Jc-965&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=FF2D95&text_color=C9D1D9&custom_title=GitHub%20Stats"
-  alt="stats"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jc-965&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=FF2D95&text_color=C9D1D9&custom_title=GitHub%20Stats" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=0D1117&border=1F2937&ring=00E7FF&fire=FF2D95&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A855F7" alt="streak"/>
 
 </div>
 
 <!-- ─────────────────────  ACTIVITY GRAPH  ──────────────────────── -->
 <div align="center">
 
-<img
-  width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=0D1117&color=00E7FF&line=FF2D95&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph"
-  alt="activity graph"
-/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=0D1117&color=00E7FF&line=FF2D95&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/>
 
 </div>
 
@@ -42,19 +36,27 @@
 
 </div>
 
-<!-- ───────────────────  TECH STACK (3 buckets, one row)  ────────── -->
+<br/><br/>
+
+<!-- ───────────────────  TECH STACK (3 spaced buckets)  ──────────── -->
 <table align="center">
   <tr>
-    <th>Languages</th>
-    <th>Mobile / Web</th>
-    <th>Backend / AI / Data</th>
+    <td align="center"><b>Languages</b></td>
+    <td width="60"></td>
+    <td align="center"><b>Mobile / Web</b></td>
+    <td width="60"></td>
+    <td align="center"><b>Backend / AI / Data</b></td>
   </tr>
   <tr>
-    <td align="center"><img width="165" alt="Languages" src="https://skillicons.dev/icons?i=py,ts,js,dart,java,cpp&theme=dark&perline=3"/></td>
-    <td align="center"><img width="165" alt="Mobile / Web" src="https://skillicons.dev/icons?i=flutter,android,react,tailwind,vite,d3&theme=dark&perline=3"/></td>
-    <td align="center"><img width="220" alt="Backend / AI / Data" src="https://skillicons.dev/icons?i=fastapi,express,bun,langchain,postgres,supabase,firebase,githubactions&theme=dark&perline=4"/></td>
+    <td align="center" valign="top"><img width="230" alt="Languages" src="https://skillicons.dev/icons?i=dart,py,java,c,cpp,ts,js,html,css&theme=dark&perline=5"/></td>
+    <td></td>
+    <td align="center" valign="top"><img width="140" alt="Mobile / Web" src="https://skillicons.dev/icons?i=flutter,android,react,tailwind,vite&theme=dark&perline=3"/></td>
+    <td></td>
+    <td align="center" valign="top"><img width="230" alt="Backend / AI / Data" src="https://skillicons.dev/icons?i=fastapi,express,bun,langchain,postgres,drizzle,supabase,firebase,githubactions&theme=dark&perline=5"/></td>
   </tr>
 </table>
+
+<br/><br/>
 
 <!-- ──────────────────────────  CONNECT  ────────────────────────── -->
 <div align="center">
