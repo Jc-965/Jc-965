@@ -6,10 +6,9 @@
   width="100%"
 />
 </div>
-<!-- ───────────────────────  STATS + STREAK (one row)  ───────────── -->
+<!-- ───────────────────────  STATS  ───────────── -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jc-965&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=FF2D95&text_color=C9D1D9&custom_title=GitHub%20Stats" alt="stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=0D1117&border=1F2937&ring=00E7FF&fire=FF2D95&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A855F7" alt="streak"/>
 
 </div>
@@ -35,7 +34,7 @@
 
 <br/><br/>
 
-<!-- ───────────────────  TECH STACK (3 spaced buckets)  ──────────── -->
+<!-- ───────────────────  TECH STACK  ──────────── -->
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
