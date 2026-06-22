@@ -2,7 +2,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=blur&color=0:00E7FF,50:A855F7,100:FF2D95&height=220&section=header&text=Jesse%20Chen&fontColor=ffffff&fontFamily=Space%20Grotesk%2C%20sans-serif&fontSize=40&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20%40%20Carnegie%20Mellon&descAlignY=64&descSize=15"
+  src="./assets/banner.svg"
   alt="header"
   width="100%"
 />
