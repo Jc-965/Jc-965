@@ -2,7 +2,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=blur&color=0:00E7FF,50:A855F7,100:FF2D95&height=160&section=header&text=Jesse%20Chen&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20%40%20Carnegie%20Mellon&descAlignY=64&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=blur&color=0:00E7FF,50:A855F7,100:FF2D95&height=220&section=header&text=Jesse%20Chen&fontColor=ffffff&fontFamily=Space%20Grotesk%2C%20sans-serif&fontSize=40&animation=fadeIn&fontAlignY=42&desc=Computer%20Science%20%40%20Carnegie%20Mellon&descAlignY=64&descSize=15"
   alt="header"
   width="100%"
 />
@@ -42,17 +42,13 @@
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td width="60"></td>
     <td align="center"><b>Mobile / Web</b></td>
-    <td width="60"></td>
     <td align="center"><b>Backend / AI / Data</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img width="230" alt="Languages" src="https://skillicons.dev/icons?i=dart,py,java,c,cpp,ts,js,html,css&theme=dark&perline=5"/></td>
-    <td></td>
-    <td align="center" valign="top"><img width="140" alt="Mobile / Web" src="https://skillicons.dev/icons?i=flutter,android,react,tailwind,vite&theme=dark&perline=3"/></td>
-    <td></td>
-    <td align="center" valign="top"><img width="230" alt="Backend / AI / Data" src="https://skillicons.dev/icons?i=fastapi,express,bun,langchain,postgres,drizzle,supabase,firebase,githubactions&theme=dark&perline=5"/></td>
+    <td align="center" valign="top"><img width="230" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=dark&perline=5"/></td>
+    <td align="center" valign="top"><img width="140" alt="Mobile / Web" src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=dark&perline=3"/></td>
+    <td align="center" valign="top"><img width="230" alt="Backend / AI / Data" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=dark&perline=5"/></td>
   </tr>
 </table>
 
