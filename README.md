@@ -1,23 +1,30 @@
 <!-- ───────────────────────────  HEADER  ─────────────────────────── -->
 <div align="center">
-<img
-  src="./assets/banner.svg"
-  alt="header"
-  width="100%"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner-light.svg" alt="header" width="100%" />
+</picture>
 </div>
-<!-- ───────────────────────  STATS + STREAK (one row)  ───────────── -->
+<!-- ──────────────────────────  GITHUB STREAK  ───────────────────── -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jc-965&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=FF2D95&text_color=C9D1D9&custom_title=GitHub%20Stats" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=0D1117&border=1F2937&ring=00E7FF&fire=FF2D95&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A855F7" alt="streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=0D1117&border=1F2937&ring=00E7FF&fire=FF2D95&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A855F7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=BF3989&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F&stroke=8250DF" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=BF3989&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F&stroke=8250DF" alt="streak" />
+</picture>
 
 </div>
 
 <!-- ─────────────────────  ACTIVITY GRAPH  ──────────────────────── -->
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=0D1117&color=00E7FF&line=FF2D95&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=0D1117&color=00E7FF&line=FF2D95&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=FFFFFF&color=0969DA&line=BF3989&point=24292F&area=true&area_color=8250DF&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=FFFFFF&color=0969DA&line=BF3989&point=24292F&area=true&area_color=8250DF&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+</picture>
 
 </div>
 
@@ -33,9 +40,9 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
-<!-- ───────────────────  TECH STACK (3 spaced buckets)  ──────────── -->
+<!-- ───────────────────  TECH STACK (3 buckets)  ─────────────────── -->
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
@@ -43,19 +50,55 @@
     <td align="center"><b>Backend / AI / Data</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img width="230" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=dark&perline=5"/></td>
-    <td align="center" valign="top"><img width="140" alt="Mobile / Web" src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=dark&perline=3"/></td>
-    <td align="center" valign="top"><img width="230" alt="Backend / AI / Data" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=dark&perline=5"/></td>
+    <td align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=dark&perline=5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=light&perline=5" />
+        <img width="230" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=light&perline=5" />
+      </picture>
+    </td>
+    <td align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=dark&perline=3" />
+        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=light&perline=3" />
+        <img width="140" alt="Mobile / Web" src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=light&perline=3" />
+      </picture>
+    </td>
+    <td align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=dark&perline=5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=light&perline=5" />
+        <img width="230" alt="Backend / AI / Data" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=light&perline=5" />
+      </picture>
+    </td>
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <!-- ──────────────────────────  CONNECT  ────────────────────────── -->
 <div align="center">
 
-<a href="https://linkedin.com/in/jessechen2"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRTdGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=00E7FF" alt="linkedin"/></a>
-<a href="mailto:jcscen@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E7FF" alt="email"/></a>
-<a href="https://Jc-965.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E7FF" alt="portfolio"/></a>
+<a href="https://linkedin.com/in/jessechen2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E7FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </picture>
+</a>
+<a href="mailto:jcscen@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E7FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </picture>
+</a>
+<a href="https://Jc-965.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E7FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </picture>
+</a>
 
 </div>
