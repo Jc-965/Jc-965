@@ -52,23 +52,23 @@
   <tr>
     <td align="center" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=dark&perline=5" />
-        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=light&perline=5" />
-        <img width="230" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=dart,python,java,c,cpp,typescript,javascript,html,css&theme=light&perline=5" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart%2Cpython%2Cjava%2Cc%2Ccpp%2Ctypescript%2Cjavascript%2Chtml%2Ccss&theme=dark&perline=5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart%2Cpython%2Cjava%2Cc%2Ccpp%2Ctypescript%2Cjavascript%2Chtml%2Ccss&theme=light&perline=5" />
+        <img width="230" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=dart%2Cpython%2Cjava%2Cc%2Ccpp%2Ctypescript%2Cjavascript%2Chtml%2Ccss&theme=light&perline=5" />
       </picture>
     </td>
     <td align="center" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=dark&perline=3" />
-        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=light&perline=3" />
-        <img width="140" alt="Mobile / Web" src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio,react,tailwindcss,vite&theme=light&perline=3" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter%2Candroidstudio%2Creact%2Ctailwindcss%2Cvite&theme=dark&perline=3" />
+        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter%2Candroidstudio%2Creact%2Ctailwindcss%2Cvite&theme=light&perline=3" />
+        <img width="140" alt="Mobile / Web" src="https://go-skill-icons.vercel.app/api/icons?i=flutter%2Candroidstudio%2Creact%2Ctailwindcss%2Cvite&theme=light&perline=3" />
       </picture>
     </td>
     <td align="center" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=dark&perline=5" />
-        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=light&perline=5" />
-        <img width="230" alt="Backend / AI / Data" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,expressjs,bun,langchain,postgresql,drizzle,supabase,firebase,githubactions&theme=light&perline=5" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi%2Cexpressjs%2Cbun%2Clangchain%2Cpostgresql%2Cdrizzle%2Csupabase%2Cfirebase%2Cgithubactions&theme=dark&perline=5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi%2Cexpressjs%2Cbun%2Clangchain%2Cpostgresql%2Cdrizzle%2Csupabase%2Cfirebase%2Cgithubactions&theme=light&perline=5" />
+        <img width="230" alt="Backend / AI / Data" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi%2Cexpressjs%2Cbun%2Clangchain%2Cpostgresql%2Cdrizzle%2Csupabase%2Cfirebase%2Cgithubactions&theme=light&perline=5" />
       </picture>
     </td>
   </tr>
@@ -79,26 +79,8 @@
 <!-- ──────────────────────────  CONNECT  ────────────────────────── -->
 <div align="center">
 
-<a href="https://linkedin.com/in/jessechen2">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E7FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </picture>
-</a>
-<a href="mailto:jcscen@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E7FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </picture>
-</a>
-<a href="https://Jc-965.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E7FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-  </picture>
-</a>
+<a href="https://linkedin.com/in/jessechen2"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRTdGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc%2B" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc%2B" /><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc%2B" alt="linkedin" /></picture></a>
+<a href="mailto:jcscen@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E7FF" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></picture></a>
+<a href="https://Jc-965.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E7FF" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></picture></a>
 
 </div>
