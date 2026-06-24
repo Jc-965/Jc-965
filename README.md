@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img src="./assets/banner-light.svg" alt="header" width="100%" />
+  <img src="./assets/banner-light.svg" alt="header" width="854" height="220" loading="eager" fetchpriority="high" decoding="async" />
 </picture>
 </div>
 <!-- ──────────────────────────  GITHUB STREAK  ───────────────────── -->
@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=0D1117&border=1F2937&ring=00E7FF&fire=FF2D95&currStreakLabel=00E7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=A855F7" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=BF3989&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F&stroke=8250DF" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=BF3989&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F&stroke=8250DF" alt="streak" />
+  <img width="432" height="170" src="https://streak-stats.demolab.com?user=Jc-965&hide_border=true&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=BF3989&currStreakLabel=0969DA&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F&stroke=8250DF" alt="streak" loading="lazy" decoding="async" />
 </picture>
 
 </div>
@@ -23,7 +23,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=0D1117&color=00E7FF&line=FF2D95&point=FFFFFF&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=FFFFFF&color=0969DA&line=BF3989&point=24292F&area=true&area_color=8250DF&hide_border=true&custom_title=Contribution%20Graph" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=FFFFFF&color=0969DA&line=BF3989&point=24292F&area=true&area_color=8250DF&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img width="1176" height="412" src="https://github-readme-activity-graph.vercel.app/graph?username=Jc-965&bg_color=FFFFFF&color=0969DA&line=BF3989&point=24292F&area=true&area_color=8250DF&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" loading="lazy" decoding="async" />
 </picture>
 
 </div>
@@ -35,7 +35,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jc-965/Jc-965/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jc-965/Jc-965/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Jc-965/Jc-965/output/snake.svg" />
+  <img width="880" height="192" alt="contribution snake" src="https://raw.githubusercontent.com/Jc-965/Jc-965/output/snake.svg" loading="lazy" decoding="async" />
 </picture>
 
 </div>
@@ -54,21 +54,21 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart%2Cpython%2Cjava%2Cc%2Ccpp%2Ctypescript%2Cjavascript%2Chtml%2Ccss&theme=dark&perline=5" />
         <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=dart%2Cpython%2Cjava%2Cc%2Ccpp%2Ctypescript%2Cjavascript%2Chtml%2Ccss&theme=light&perline=5" />
-        <img width="230" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=dart%2Cpython%2Cjava%2Cc%2Ccpp%2Ctypescript%2Cjavascript%2Chtml%2Ccss&theme=light&perline=5" />
+        <img width="230" height="88" alt="Languages" src="https://go-skill-icons.vercel.app/api/icons?i=dart%2Cpython%2Cjava%2Cc%2Ccpp%2Ctypescript%2Cjavascript%2Chtml%2Ccss&theme=light&perline=5" loading="lazy" decoding="async" />
       </picture>
     </td>
     <td align="center" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter%2Candroidstudio%2Creact%2Ctailwindcss%2Cvite&theme=dark&perline=3" />
         <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=flutter%2Candroidstudio%2Creact%2Ctailwindcss%2Cvite&theme=light&perline=3" />
-        <img width="140" alt="Mobile / Web" src="https://go-skill-icons.vercel.app/api/icons?i=flutter%2Candroidstudio%2Creact%2Ctailwindcss%2Cvite&theme=light&perline=3" />
+        <img width="140" height="91" alt="Mobile / Web" src="https://go-skill-icons.vercel.app/api/icons?i=flutter%2Candroidstudio%2Creact%2Ctailwindcss%2Cvite&theme=light&perline=3" loading="lazy" decoding="async" />
       </picture>
     </td>
     <td align="center" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi%2Cexpressjs%2Cbun%2Clangchain%2Cpostgresql%2Cdrizzle%2Csupabase%2Cfirebase%2Cgithubactions&theme=dark&perline=5" />
         <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi%2Cexpressjs%2Cbun%2Clangchain%2Cpostgresql%2Cdrizzle%2Csupabase%2Cfirebase%2Cgithubactions&theme=light&perline=5" />
-        <img width="230" alt="Backend / AI / Data" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi%2Cexpressjs%2Cbun%2Clangchain%2Cpostgresql%2Cdrizzle%2Csupabase%2Cfirebase%2Cgithubactions&theme=light&perline=5" />
+        <img width="230" height="88" alt="Backend / AI / Data" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi%2Cexpressjs%2Cbun%2Clangchain%2Cpostgresql%2Cdrizzle%2Csupabase%2Cfirebase%2Cgithubactions&theme=light&perline=5" loading="lazy" decoding="async" />
       </picture>
     </td>
   </tr>
