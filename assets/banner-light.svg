@@ -14,18 +14,20 @@
       font-family: "Space Grotesk Embedded";
       text-anchor: middle;
       dominant-baseline: middle;
-      animation: fade-in 1.2s ease-in-out forwards;
+      opacity: 0;
     }
 
     .title {
       font-size: 40px;
       font-weight: 700;
+      animation: fade-in 0.75s ease-out 0.1s forwards;
     }
 
     .subtitle {
       fill: #57606a;
       font-size: 20px;
       font-weight: 600;
+      animation: fade-in 0.75s ease-out 0.55s forwards;
     }
 
     @keyframes fade-in {
@@ -37,17 +39,17 @@
   <defs>
     <clipPath id="typing-clip-1">
       <rect x="117" y="121" width="0" height="40">
-        <animate attributeName="width" values="0;620;620;0;0" keyTimes="0;0.18;0.26;0.34;1" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;620;620;0;0" keyTimes="0;0.18;0.26;0.34;1" dur="15s" begin="0.55s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <clipPath id="typing-clip-2">
       <rect x="117" y="121" width="0" height="40">
-        <animate attributeName="width" values="0;0;620;620;0;0" keyTimes="0;0.34;0.52;0.60;0.68;1" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;620;620;0;0" keyTimes="0;0.34;0.52;0.60;0.68;1" dur="15s" begin="0.55s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <clipPath id="typing-clip-3">
       <rect x="117" y="121" width="0" height="40">
-        <animate attributeName="width" values="0;0;620;620;0" keyTimes="0;0.68;0.86;0.94;1" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;620;620;0" keyTimes="0;0.68;0.86;0.94;1" dur="15s" begin="0.55s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
