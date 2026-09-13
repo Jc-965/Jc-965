@@ -21,6 +21,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Create output directory
+        run: mkdir -p dist
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
